@@ -2,10 +2,8 @@
 🚀 About Me
 Motivated engineering graduate with hands-on experience in AWS cloud infrastructure, Linux, and CI/CD automation. I've built and deployed a highly-available, multi-tier web app on AWS using EC2, RDS, and Load Balancing, with a security-first network design. Currently looking for an entry-level DevOps/Cloud role to keep sharpening automation and infra skills in production settings.
 
-🎓 B.E. Electronics and Communication Engineering — KSR College of Engineering, Tiruchengode (2026)
 ☁️ Comfortable across EC2, VPC, RDS, IAM, ALB, Auto Scaling, and CloudWatch
 🤖 Exploring AI-assisted infra tooling (Kubernetes troubleshooting agents)
-📍 Erode, Tamil Nadu, India
 🛠️ Tech Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=aws,kubernetes,linux,git,githubactions,python,java,html,css,js,mysql" /> </p>
 📌 Featured Projects
